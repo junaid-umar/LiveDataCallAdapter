@@ -26,7 +26,7 @@ Step 2. Add the dependency
 	        implementation 'com.github.junaid-umar:LiveDataCallAdapter:Tag'
 	}
 	
-	## License
+## License
 
     Copyright 2020 Junaid Umar
 
